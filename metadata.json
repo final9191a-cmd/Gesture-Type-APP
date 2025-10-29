@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Type AI",
+  "description": "An innovative web application that allows you to type using hand gestures. It uses your camera and advanced machine learning to recognize hand movements, translating them into text in a futuristic chat interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
